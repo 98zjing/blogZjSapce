@@ -1,0 +1,1045 @@
+# Translation of Themes - Innofit in Chinese (China)
+# This file is distributed under the same license as the Themes - Innofit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-20 08:48:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Innofit\n"
+
+#. Description of the theme
+msgid "Innofit WordPress Theme is a one page parallax theme well suited for business website, portfolio, and everyone who appreciate good design. The advance customizer panel will help you in creating a good site without any prior technical knowledge. The theme is responsive, creative, flexible, elegant, clean. It’s a perfect example of a Bootstrap integration in a WordPress theme and is compatible with the latest version of WooCommerce. (Live preview: https://demo.spicethemes.com/?theme=Innofit)"
+msgstr "Innofit WordPress主题是一个单页视差主题，非常适合商业站点，作品集，以及所有欣赏优秀设计的人。高级定制器面板将帮助您在没有任何先前技术知识的情况下创建一个好的站点。主题反响灵敏，富有创意，灵活，优雅，干净。它是WordPress主题中Bootstrap集成的完美示例，并与最新版本的WooCommerce兼容。 （实时预览：https://demo.spicethemes.com/?theme=Innofit)"
+
+#. Theme Name of the theme
+#: admin/tab-pages/free_vs_pro.php:10
+msgid "Innofit"
+msgstr "Innofit"
+
+#: 404.php:14 404.php:15
+msgid "4"
+msgstr "4"
+
+#: 404.php:17
+msgid "Oops! Page not found"
+msgstr "出错了！未找到页面"
+
+#: 404.php:18
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "非常抱歉，您正在找的页面不存在。"
+
+#: 404.php:20
+msgid "Home Page"
+msgstr "首页"
+
+#: admin/inc/plugin-include-control.php:40
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/include-companion.php:41
+msgid "Installing"
+msgstr "安装中"
+
+#: functions/customizer-notify/innofit-customizer-notify.php:111
+#: admin/inc/plugin-include-control.php:41
+#: admin/inc/class-spicethemes-about-page.php:75
+#: admin/inc/include-companion.php:42
+msgid "Activating"
+msgstr "激活中"
+
+#: admin/inc/plugin-include-control.php:42
+#: admin/inc/class-spicethemes-about-page.php:76
+#: admin/inc/include-companion.php:43
+msgid "Error"
+msgstr "错误"
+
+#: admin/inc/class-spicethemes-about-page.php:115
+msgid "View Theme Info"
+msgstr "查看主题信息"
+
+#: admin/inc/class-spicethemes-about-page.php:125
+msgid "About %1$s %2$s"
+msgstr "约%1$s%2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:126
+msgid "Welcome to %1$s %2$s"
+msgstr "欢迎使用 %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:141
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "欢迎使用 %1$s - 版本 %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:144
+msgid "Get started with Innofit"
+msgstr "开始使用Innofit"
+
+#: admin/inc/class-spicethemes-about-page.php:263
+msgid "See changelog below:"
+msgstr "请参阅以下更改日志："
+
+#: admin/inc/class-spicethemes-about-page.php:317
+msgid "Getting Started"
+msgstr "开始设置"
+
+#: functions/customizer/customizer_recommended_plugin.php:17
+#: admin/inc/class-spicethemes-about-page.php:323
+msgid "Recommended Actions"
+msgstr "推荐操作"
+
+#: admin/inc/class-spicethemes-about-page.php:329
+msgid "One Click Demo Import"
+msgstr "一键演示导入"
+
+#: admin/inc/class-spicethemes-about-page.php:334
+msgid "Changelog"
+msgstr "修订历史"
+
+#: admin/inc/class-spicethemes-about-page.php:339
+msgid "Free vs. Plus"
+msgstr "免费与PLUS"
+
+#: admin/inc/class-spicethemes-about-page.php:423
+msgid "Install %s now"
+msgstr "现在安装%s"
+
+#: functions/plugin-install/class-innofit-plugin-install-helper.php:60
+#: admin/inc/class-spicethemes-about-page.php:425
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "安装并激活"
+
+#: admin/inc/class-spicethemes-about-page.php:442
+msgid "Activate %s now"
+msgstr "现在激活 %s"
+
+#: functions/customizer/customizer_recommended_plugin.php:20
+#: functions/plugin-install/class-innofit-plugin-install-helper.php:80
+#: admin/inc/class-spicethemes-about-page.php:444
+msgid "Activate"
+msgstr "激活"
+
+#: admin/inc/class-spicethemes-about-page.php:447
+msgid "Active"
+msgstr "已启用"
+
+#: admin/inc/class-spicethemes-about-page.php:569
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:575
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "要利用自定义程序中此主题的功能，您需要安装SpiceBox插件。"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "您已经安装了SpiceBox插件。要利用自定义程序中此主题的功能，您需要激活它。"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "现在激活"
+
+#: admin/tab-pages/free_vs_pro.php:10
+msgid "Innofit Plus"
+msgstr "Innofit Plus"
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "Contact Form Support"
+msgstr "联系标支持"
+
+#: admin/tab-pages/free_vs_pro.php:57 admin/tab-pages/free_vs_pro.php:73
+#: admin/tab-pages/free_vs_pro.php:74 admin/tab-pages/free_vs_pro.php:98
+#: admin/tab-pages/free_vs_pro.php:121 admin/tab-pages/free_vs_pro.php:122
+#: admin/tab-pages/free_vs_pro.php:145 admin/tab-pages/free_vs_pro.php:146
+#: admin/tab-pages/free_vs_pro.php:170
+msgid "Unlimited"
+msgstr "无限制"
+
+#: admin/tab-pages/free_vs_pro.php:62
+msgid "Service Section"
+msgstr "服务部分"
+
+#: admin/tab-pages/free_vs_pro.php:159
+msgid "Latest News Section"
+msgstr "最新消息区段"
+
+#: admin/tab-pages/free_vs_pro.php:247
+msgid "Portfolio Section"
+msgstr "代表作部分"
+
+#: admin/tab-pages/free_vs_pro.php:271
+msgid "Google Map"
+msgstr "谷歌地图"
+
+#: admin/tab-pages/free_vs_pro.php:303 admin/tab-pages/getting-started.php:52
+msgid "Typography"
+msgstr "排版"
+
+#: admin/tab-pages/free_vs_pro.php:319
+msgid "Mulitple Color Schemes"
+msgstr "多色彩方案"
+
+#: admin/tab-pages/free_vs_pro.php:336
+msgid "WPML Support"
+msgstr "支持 WPML"
+
+#: admin/tab-pages/free_vs_pro.php:344
+msgid "Support Forum"
+msgstr "支持论坛"
+
+#: functions/customizer/customizer_layout_settings.php:10
+#: admin/tab-pages/getting-started.php:27
+msgid "Layout"
+msgstr "布局"
+
+#: admin/tab-pages/getting-started.php:33
+msgid "Footer Widgets"
+msgstr "页脚小工具"
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Useful Links"
+msgstr "有用的链接"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "这篇文章受密码保护。输入密码以查看评论。"
+
+#: comments.php:19
+msgid "Reply"
+msgstr "回复"
+
+#: comments.php:32
+msgid "Edit"
+msgstr "编辑"
+
+#: comments.php:35
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: comments.php:54
+msgid "No comments so far"
+msgstr "目前为止没有评论"
+
+#: comments.php:54
+msgid "1 comment so far"
+msgstr "目前为止有一条评论"
+
+#: comments.php:54
+msgid "% Comments"
+msgstr "%条评论"
+
+#: comments.php:62
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:63
+msgid "&larr; Older Comments"
+msgstr "&larr; 早期评论"
+
+#: comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#. translators: %s is Link to login
+#: comments.php:77
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "要发表评论，您必须先<a href=\"%s\">登录</a>。"
+
+#: comments.php:89
+msgid "Name"
+msgstr "名称"
+
+#: comments.php:90
+msgid "Email"
+msgstr "电子邮件"
+
+#: comments.php:91
+msgid "Website"
+msgstr "站点"
+
+#: comments.php:103
+msgid "Message"
+msgstr "信息"
+
+#: comments.php:104
+msgid "Logged in as"
+msgstr "以以下身份登陆"
+
+#: comments.php:104
+msgid "Log out of this account"
+msgstr "登出这个帐号"
+
+#: comments.php:104
+msgid "Logout"
+msgstr "登出"
+
+#: comments.php:106
+msgid "Send Message"
+msgstr "发送信息"
+
+#: comments.php:110
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: content-page.php:11 template/template-page-full-width.php:26
+#: functions.php:159 content.php:46
+msgid "Read More"
+msgstr "阅读更多"
+
+#: functions.php:69
+msgid "Page"
+msgstr "页"
+
+#: functions.php:120
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions/breadcrumbs/breadcrumbs.php:63
+#: functions/breadcrumbs/breadcrumbs.php:67
+msgid "Home"
+msgstr "首页"
+
+#: functions/breadcrumbs/breadcrumbs.php:70
+msgid "Archive by category"
+msgstr "分类归档："
+
+#: functions/breadcrumbs/breadcrumbs.php:120
+msgid "Error 404"
+msgstr "404错误"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Add new field"
+msgstr "添加新的字段"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Customizer Repeater"
+msgstr "中继定制器"
+
+#: functions/widgets/wdl_featured_latest_news.php:79
+#: functions/customizer-repeater/class/customizer-repeater-control.php:285
+#: functions/customizer-repeater/class/customizer-repeater-control.php:463
+msgid "Title"
+msgstr "标题"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:294
+#: functions/customizer-repeater/class/customizer-repeater-control.php:472
+msgid "Subtitle"
+msgstr "字幕"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:301
+#: functions/customizer-repeater/class/customizer-repeater-control.php:479
+msgid "Description"
+msgstr "描述"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:309
+#: functions/customizer-repeater/class/customizer-repeater-control.php:487
+msgid "Features"
+msgstr "特色"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:320
+#: functions/customizer-repeater/class/customizer-repeater-control.php:497
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:331
+#: functions/customizer-repeater/class/customizer-repeater-control.php:507
+#: functions/customizer-repeater/class/customizer-repeater-control.php:731
+#: functions/customizer-repeater/class/customizer-repeater-control.php:753
+msgid "Link"
+msgstr "链接"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:345
+#: functions/customizer-repeater/class/customizer-repeater-control.php:520
+msgid "Price"
+msgstr "价格"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:367
+#: functions/customizer-repeater/class/customizer-repeater-control.php:541
+msgid "Video Url"
+msgstr "视频 URL"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:391
+#: functions/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Color"
+msgstr "颜色"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:401
+#: functions/customizer-repeater/class/customizer-repeater-control.php:552
+msgid "Shortcode"
+msgstr "短代码"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:409
+#: functions/customizer-repeater/class/customizer-repeater-control.php:561
+msgid "Designation"
+msgstr "职位名称"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:425
+#: functions/customizer-repeater/class/customizer-repeater-control.php:572
+msgid "Delete field"
+msgstr "删除字段"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:609
+msgid "Open link in new tab:"
+msgstr "在新标签页打开链接："
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:620
+#: functions/customizer-repeater/class/customizer-repeater-control.php:707
+msgid "Icon"
+msgstr "图标"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:625
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意：某些图标可能没有显示在此处。 您可以在 %1$s 上看到完整的图标列表。"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:626
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:643
+#: functions/customizer-repeater/class/customizer-repeater-control.php:708
+msgid "Image"
+msgstr "图像"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:646
+msgid "Upload Image"
+msgstr "上传图像"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:655
+msgid "Slide Format"
+msgstr "幻灯片格式"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:659
+msgid "Standard"
+msgstr "标准"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:663
+msgid "Aside"
+msgstr "日志"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:667
+msgid "Quote"
+msgstr "引语"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:671
+msgid "Status"
+msgstr "状态"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:675
+msgid "Video"
+msgstr "视频"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:686
+msgid "Price highlight"
+msgstr "价格高亮"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:690
+msgid "Highlight"
+msgstr "高亮"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:694
+msgid "Non highlight"
+msgstr "不亮点"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:704
+msgid "Image type"
+msgstr "图像类型"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:709
+msgid "None"
+msgstr "无"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:717
+msgid "Social icons"
+msgstr "社交图标"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:734
+#: functions/customizer-repeater/class/customizer-repeater-control.php:764
+msgid "Remove Icon"
+msgstr "移除图标"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:739
+#: functions/customizer-repeater/class/customizer-repeater-control.php:772
+msgid "Add Icon"
+msgstr "添加图标"
+
+#: functions/customizer/customizer-page-editor/class/class-innofit-page-editor.php:61
+msgid "About background"
+msgstr "关于背景"
+
+#: functions/customizer/customizer-page-editor/class/class-innofit-page-editor.php:77
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: functions/customizer/customizer-page-editor/customizer-page-editor.php:26
+msgid "Save and close"
+msgstr "保存并关闭"
+
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:56
+msgid "Customize > Widgets > Subscriber section widget area"
+msgstr "自定义&gt;窗口小工具&gt;订户部分窗口小工具区域"
+
+#. translators: %1$s is Path wrapped in <b>, %2$s is Plugin link
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:64
+msgid "The main content of this section is customizable in: %1$s. Once there, you need to add the \"SendinBlue Newsletter\" widget. But first, you will need to install %2$s."
+msgstr "本区或的主要内容可以在 %1$s定制。在那里你必须添加 “SendinBlue Newsletter” 小工具。但首先您需要安装 %2$s 。"
+
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:66
+msgid "SendinBlue plugin"
+msgstr "SendinBlue 插件"
+
+#. translators: %s Path in plugin wrapped
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:74
+msgid "After installing the plugin, you need to navigate to %s and configure it."
+msgstr "安装插件后，您需要游览到 %s 并配置插件。"
+
+#: functions/customizer/customizer_color_back_settings.php:16
+#: functions/customizer/customizer_layout_settings.php:35
+msgid "Footer"
+msgstr "注脚"
+
+#: functions/customizer/customizer_color_back_settings.php:28
+msgid "Footer background color"
+msgstr "页脚背景颜色"
+
+#: functions/customizer/customizer_layout_settings.php:50
+msgid "Copyright text"
+msgstr "版权说明"
+
+#: functions/customizer/customizer_layout_settings.php:15
+msgid "Header"
+msgstr "顶部"
+
+#: functions/customizer/customizer_layout_settings.php:80
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr "启用文章元值，如作者姓名、日期、评论等。"
+
+#: functions/customizer/customizer_layout_settings.php:100
+#: functions/customizer/customizer_layout_settings.php:106
+msgid "Archive"
+msgstr "存档"
+
+#: functions/customizer/customizer_layout_settings.php:114
+#: functions/customizer/customizer_layout_settings.php:120
+#: functions/template-tags.php:73
+msgid "Category"
+msgstr "分类目录"
+
+#: functions/customizer/customizer_layout_settings.php:128
+#: functions/template-tags.php:79
+msgid "All posts by"
+msgstr "作者："
+
+#: functions/customizer/customizer_layout_settings.php:134
+msgid "Author"
+msgstr "作者"
+
+#: functions/customizer/customizer_layout_settings.php:142
+#: functions/customizer/customizer_layout_settings.php:148
+#: functions/template-tags.php:37 functions/template-tags.php:85
+msgid "Tag"
+msgstr "标签"
+
+#: functions/customizer/customizer_layout_settings.php:157
+#: functions/template-tags.php:105
+msgid "Search results for"
+msgstr "搜索结果："
+
+#: searchform.php:3 functions/customizer/customizer_layout_settings.php:163
+msgid "Search"
+msgstr "搜索"
+
+#: functions/customizer/customizer_layout_settings.php:171
+#: functions/customizer/customizer_layout_settings.php:177
+#: functions/template-tags.php:115
+msgid "404"
+msgstr "404"
+
+#: functions/customizer/customizer_layout_settings.php:185
+#: functions/customizer/customizer_layout_settings.php:191
+#: functions/template-tags.php:91
+msgid "Shop"
+msgstr "店铺"
+
+#: functions/customizer/customizer_recommended_plugin.php:18
+msgid "Recommended Plugin"
+msgstr "插件推荐"
+
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Install and Activate"
+msgstr "安装并激活"
+
+#: functions/customizer/customizer_recommended_plugin.php:21
+msgid "Deactivate"
+msgstr "停用"
+
+#: functions/customizer/customizer_sections_settings.php:26
+msgid "Homepage section settings"
+msgstr "首页部分设置"
+
+#: functions/widgets/wdl_social_icon.php:201
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/widgets/wdl_social_icon.php:213
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/widgets/wdl_social_icon.php:219
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: functions/widgets/wdl_social_icon.php:198
+#: functions/widgets/wdl_social_icon.php:204
+#: functions/widgets/wdl_social_icon.php:210
+#: functions/widgets/wdl_social_icon.php:216
+#: functions/widgets/wdl_social_icon.php:222
+#: functions/widgets/wdl_social_icon.php:228
+#: functions/widgets/wdl_social_icon.php:234
+#: functions/widgets/wdl_social_icon.php:240
+#: functions/widgets/wdl_social_icon.php:246
+msgid "Open link in new tab"
+msgstr "在新标签页打开链接"
+
+#: functions/plugin-install/class-innofit-plugin-install-helper.php:116
+msgid "Activating "
+msgstr "激活中"
+
+#: functions/template-tags.php:26
+msgid "By"
+msgstr "作者"
+
+#: functions/template-tags.php:32
+msgid "in"
+msgstr "在"
+
+#: functions/template-tags.php:55
+msgid "Archives"
+msgstr "文章归档"
+
+#: functions/template-tags.php:61 functions/template-tags.php:65
+#: functions/template-tags.php:69 functions/template-tags.php:75
+#: functions/template-tags.php:81 functions/template-tags.php:87
+#: functions/template-tags.php:93 functions/template-tags.php:109
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: functions/template-tags.php:119
+msgid "%1$s "
+msgstr "%1$s "
+
+#: functions/template-tags.php:144
+msgid "previous page"
+msgstr "上一页"
+
+#: functions/template-tags.php:144
+msgid "next page"
+msgstr "下一页"
+
+#: functions/widgets/sidebars.php:8 functions/widgets/sidebars.php:10
+msgid "Sidebar widget area"
+msgstr "边栏小工具区"
+
+#: functions/widgets/sidebars.php:18 functions/widgets/sidebars.php:20
+msgid "Footer widget left area"
+msgstr "页脚小工具左区"
+
+#: functions/widgets/sidebars.php:28 functions/widgets/sidebars.php:30
+msgid "Footer widget central area"
+msgstr "页脚小工具中心区"
+
+#: functions/widgets/sidebars.php:38 functions/widgets/sidebars.php:40
+msgid "Footer widget right area"
+msgstr "页脚小工具右区"
+
+#: functions/widgets/sidebars.php:49 functions/widgets/sidebars.php:51
+msgid "Social media menu lateral area"
+msgstr "社交媒体菜单侧面区"
+
+#: functions/widgets/sidebars.php:58 functions/widgets/sidebars.php:60
+msgid "Subscriber section widget area"
+msgstr "订阅者部分小工具区"
+
+#: functions/widgets/sidebars.php:65 functions/widgets/sidebars.php:67
+msgid "WooCommerce sidebar widget area"
+msgstr "WooCommerce边栏区或"
+
+#: functions/widgets/wdl_featured_latest_news.php:14
+msgid "ST: Latest News"
+msgstr "ST：最新消息"
+
+#: functions/widgets/wdl_featured_latest_news.php:15
+msgid "Display your recent posts on your website"
+msgstr "在您站点上显示您近期的文章"
+
+#: functions/widgets/wdl_featured_latest_news.php:84
+msgid "Number of posts to show"
+msgstr "显示文章的数目"
+
+#: functions/widgets/wdl_featured_latest_news.php:89
+msgid "Select blog category"
+msgstr "选择博格分类"
+
+#: functions/widgets/wdl_featured_latest_news.php:91
+msgid "Select category"
+msgstr "选择分类目录"
+
+#: functions/widgets/wdl_featured_latest_news.php:105
+msgid "Featured post image size"
+msgstr "特色文章图像尺寸"
+
+#: functions/widgets/wdl_featured_latest_news.php:107
+msgid "Select post image size"
+msgstr "选择文章图像尺寸"
+
+#: functions/widgets/wdl_featured_latest_news.php:108
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: functions/widgets/wdl_featured_latest_news.php:109
+msgid "Medium"
+msgstr "中等"
+
+#: functions/widgets/wdl_featured_latest_news.php:110
+msgid "Large"
+msgstr "大"
+
+#: functions/widgets/wdl_featured_latest_news.php:111
+msgid "Full"
+msgstr "全部"
+
+#: functions/widgets/wdl_featured_latest_news.php:116
+msgid "Enable feature image"
+msgstr "启用特色图像"
+
+#: functions/widgets/wdl_social_icon.php:13
+msgid "ST: Social icons"
+msgstr "ST：社交图标"
+
+#: functions/widgets/wdl_social_icon.php:16
+msgid "Innofit social icons widget"
+msgstr "Innofit社交图标小工具"
+
+#: functions/widgets/wdl_social_icon.php:195
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/widgets/wdl_social_icon.php:207
+msgid "Google-Plus URL"
+msgstr "Google+ URL"
+
+#: functions/widgets/wdl_social_icon.php:225
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: functions/widgets/wdl_social_icon.php:231
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/widgets/wdl_social_icon.php:237
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: functions/widgets/wdl_social_icon.php:243
+msgid "Dribble URL"
+msgstr "Dribble URL"
+
+#: header.php:100 header.php:176
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+
+#: header.php:121
+msgid "Toggle navigation"
+msgstr "切换导航"
+
+#: search.php:31
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: search.php:32
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "业务模板"
+
+#: admin/inc/class-spicethemes-about-page.php:143
+msgid "Welcome! Thank you for choosing SpiceThemes Innofit WordPress theme. To take full advantage of the features this theme has to offer visit our %swelcome page%s."
+msgstr "欢迎！感谢您选择SpiceThemes Innofit WordPress主题。要充分利用此主题提供的功能，请访问我们的%s欢迎页面%s。"
+
+#: admin/inc/class-spicethemes-about-page.php:571
+msgid "To access the advance Frontpage sections and other theme features, please install the SpiceBox plugin."
+msgstr "要访问高级首页部分和其他主题功能，请安装SpiceBox插件。"
+
+#: admin/inc/class-spicethemes-about-page.php:577
+msgid "To display the contact form on the contact section in homepage, please install the Contact Form 7 plugin."
+msgstr "要在主页的联系部分显示联系表单，请安装Contact Form 7插件。"
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "立即安装 SpiceBox"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "立即激活 SpiceBox"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "WooCommerce Support"
+msgstr "WooCommerce 支持"
+
+#: admin/tab-pages/free_vs_pro.php:30
+msgid "Hero Section"
+msgstr "精选区"
+
+#: admin/tab-pages/free_vs_pro.php:38
+msgid "Full Screen"
+msgstr "全屏"
+
+#: admin/tab-pages/free_vs_pro.php:46
+msgid "Background Video"
+msgstr "背景视频"
+
+#: admin/tab-pages/free_vs_pro.php:54
+msgid "Background Slides"
+msgstr "背景幻灯片"
+
+#: admin/tab-pages/free_vs_pro.php:71 admin/tab-pages/free_vs_pro.php:95
+msgid "Number of items"
+msgstr "项目数量"
+
+#: admin/tab-pages/free_vs_pro.php:79
+msgid "About Section"
+msgstr "关于部分"
+
+#: admin/tab-pages/free_vs_pro.php:87
+msgid "Shop Section"
+msgstr "商店部分"
+
+#: admin/tab-pages/free_vs_pro.php:103 admin/tab-pages/free_vs_pro.php:127
+#: admin/tab-pages/free_vs_pro.php:151 admin/tab-pages/free_vs_pro.php:175
+msgid "Carousel effect"
+msgstr "轮播效果"
+
+#: admin/tab-pages/free_vs_pro.php:111
+msgid "Testimonial Section"
+msgstr "褒奖部分"
+
+#: admin/tab-pages/free_vs_pro.php:119
+msgid "Number of testimonials"
+msgstr "褒奖数量"
+
+#: admin/tab-pages/free_vs_pro.php:135
+msgid "Team Section"
+msgstr "团队部分"
+
+#: admin/tab-pages/free_vs_pro.php:143
+msgid "Number of team members"
+msgstr "团队成员人数"
+
+#: admin/tab-pages/free_vs_pro.php:167
+msgid "Number of articles"
+msgstr "文章数量"
+
+#: admin/tab-pages/free_vs_pro.php:183
+msgid "Theme layouts"
+msgstr "主题布局"
+
+#: admin/tab-pages/free_vs_pro.php:191
+msgid "Wide layout"
+msgstr "宽布局"
+
+#: admin/tab-pages/free_vs_pro.php:199
+msgid "Boxed layout"
+msgstr "盒装布局"
+
+#: admin/tab-pages/free_vs_pro.php:207
+msgid "Footer layouts"
+msgstr "页脚布局"
+
+#: admin/tab-pages/free_vs_pro.php:215
+msgid "Number of footer layouts"
+msgstr "页脚布局数"
+
+#: admin/tab-pages/free_vs_pro.php:223
+msgid "Contact Form Section"
+msgstr "联系表格部分"
+
+#: admin/tab-pages/free_vs_pro.php:231
+msgid "Subscriber Section"
+msgstr "订户部分"
+
+#: admin/tab-pages/free_vs_pro.php:239
+msgid "Callout Section"
+msgstr "标注部分"
+
+#: admin/tab-pages/free_vs_pro.php:255
+msgid "Funfact Section"
+msgstr "有趣的事实部分"
+
+#: admin/tab-pages/free_vs_pro.php:263
+msgid "Pricing Section"
+msgstr "定价部分"
+
+#: admin/tab-pages/free_vs_pro.php:279
+msgid "Client Section"
+msgstr "客户部分"
+
+#: admin/tab-pages/free_vs_pro.php:287
+msgid "Instagram Gallery Section"
+msgstr "Instagram图库部分"
+
+#: admin/tab-pages/free_vs_pro.php:295
+msgid "Blog Templates (Left,Right,Full-Width)"
+msgstr "博客模板（左，右，全宽）"
+
+#: admin/tab-pages/free_vs_pro.php:311
+msgid "Drag and drop section orders"
+msgstr "拖放部分顺序"
+
+#: admin/tab-pages/free_vs_pro.php:327
+msgid "Homepage Sections Before / After Hooks"
+msgstr "主页部分之前/之后的钩子"
+
+#: admin/tab-pages/free_vs_pro.php:351
+msgid "Get Innofit Plus Now!"
+msgstr "立即获取Innofit Plus！"
+
+#: admin/tab-pages/getting-started.php:13
+msgid "Innofit theme Configuration"
+msgstr "Innofit主题配置"
+
+#: admin/tab-pages/getting-started.php:20
+msgid "Links to Customizer Settings"
+msgstr "指向定制程序设置的链接"
+
+#: admin/tab-pages/getting-started.php:24
+msgid "Site Logo"
+msgstr "站点标志"
+
+#: functions/customizer/customizer_color_back_settings.php:11
+#: admin/tab-pages/getting-started.php:30
+msgid "Colors / Background"
+msgstr "颜色/背景"
+
+#: admin/tab-pages/getting-started.php:37
+msgid "Homepage Sections"
+msgstr "主页部分"
+
+#: admin/tab-pages/getting-started.php:48
+msgid "Theme Color Schemes"
+msgstr "主题配色方案"
+
+#: admin/tab-pages/getting-started.php:56
+msgid "Homepage Section Ordering"
+msgstr "主页部分顺序"
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Innofit Demo"
+msgstr "Innofit演示"
+
+#: admin/tab-pages/getting-started.php:116
+msgid "Innofit Plus Demo"
+msgstr "Innofit Plus演示"
+
+#: admin/tab-pages/getting-started.php:120
+msgid "Innofit Theme Support"
+msgstr "Innofit主题支持"
+
+#: admin/tab-pages/getting-started.php:124
+msgid "Innofit Plus Support"
+msgstr "Innofit Plus支持"
+
+#: admin/tab-pages/getting-started.php:128
+msgid "Your feedback is valuable to us"
+msgstr "您的反馈对我们是有价值的"
+
+#: admin/tab-pages/getting-started.php:132
+msgid "Innofit Plus Details"
+msgstr "Innofit Plus详细信息"
+
+#: admin/tab-pages/getting-started.php:136
+msgid "Innofit Documentation"
+msgstr "Innofit文档"
+
+#: admin/tab-pages/getting-started.php:140
+msgid "Innofit Plus Documentation"
+msgstr "Innofit Plus文档"
+
+#: admin/tab-pages/getting-started.php:144
+msgid "Pre-sales enquiry"
+msgstr "售前咨询"
+
+#: comments.php:29
+msgid "Posted on "
+msgstr "发布于 "
+
+#: content.php:57
+msgid "By "
+msgstr "作者 "
+
+#: footer.php:27 functions/customizer/customizer_layout_settings.php:44
+msgid "<a href=\"https://wordpress.org\">Proudly powered by WordPress</a> | Theme: <a href=\"https://spicethemes.com\" rel=\"designer\">Innofit</a> by SpiceThemes"
+msgstr "<a href=\"https://cn.wordpress.org\">自豪地使用WordPress</a> | 主题：<a href=\"https://spicethemes.com\" rel=\"designer\">Innofit</a> 由 SpiceThemes 创作"
+
+#: functions/customizer/customizer-pro.php:13
+msgid "UPGRADE TO PLUS"
+msgstr "升级到Plus"
+
+#: functions/customizer/customizer-pro.php:20
+msgid "Upgrade to Plus"
+msgstr "升级到Plus"
+
+#: functions/customizer/customizer-subscribe-info/class-innofit-subscribe-info.php:82
+msgid "And then you need to navigate to its Settings, and use the following markup in the Subscription form:"
+msgstr "然后，您需要游览到其设置，并在订阅表单中使用以下内容："
+
+#: functions/customizer/customizer-subscribe-info/templates/subscribe-textarea-content.php:15
+msgid "Enter Your Email"
+msgstr "输入你的电子邮箱"
+
+#: functions/customizer/customizer_layout_settings.php:26
+msgid "Banner Image"
+msgstr "横幅图像"
+
+#: functions/customizer/customizer_layout_settings.php:28
+msgid "This is the default banner image used in pages / posts / blog / archive."
+msgstr "这是页面/文章/博客/存档中使用的默认横幅图像。"
+
+#: functions/customizer/customizer_layout_settings.php:61
+msgid "Blog / Archive"
+msgstr "博客/存档"
+
+#: functions/customizer/customizer_layout_settings.php:90
+msgid "Archive pages title"
+msgstr "存档页面标题"
+
+#: functions/customizer/customizer_recommended_plugin.php:13
+msgid "Install and activate %s plugin for taking full advantage of all the features this theme has to offer."
+msgstr "安装并激活%s插件，以充分利用此主题提供的所有功能。"
+
+#. Template Name of the theme
+msgid "Full-width page"
+msgstr "Full-width page"
+
+#. Author URI of the theme
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/innofit/"
+msgstr "https://spicethemes.com/innofit/"
+
+#. Author of the theme
+msgid "spicethemes"
+msgstr "spicethemes"
